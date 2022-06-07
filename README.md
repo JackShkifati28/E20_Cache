@@ -1,6 +1,6 @@
 # E20_Cache
 
-This project, like project 2, was developed using the object-oriented paradigm. Because cache is an item that the e20 CPU utilizes, it makes the most sense. The cache is located in the cache.h header file. Because it's in a header file, it'll be more structured and simpler to understand. Furthermore, putting it in class makes configuring the cache and implementing multiple caches more simple. As
+This project, like E20 Processor, was developed using the object-oriented paradigm. Because cache is an item that the e20 CPU utilizes, it makes the most sense. The cache is located in the cache.h header file. Because it's in a header file, it'll be more structured and simpler to understand. Furthermore, putting it in class makes configuring the cache and implementing multiple caches more simple. As
 previously stated in project 2, the benefits of abstraction and modification are critical for updating new features and not gaining exposure to design.
 
 
