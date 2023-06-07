@@ -12,7 +12,7 @@ The `cache` class has been meticulously positioned in a unique header file named
 - Simplifies comprehension.
 - Facilitates multiple cache implementations and configurations.
 
-As previously explained in Project 2, the importance of abstraction and modifiability cannot be overstated when it comes to updating new features and preserving the integrity of the design.
+As previously explained in E20 simulator, the importance of abstraction and modifiability cannot be overstated when it comes to updating new features and preserving the integrity of the design.
 
 ## **Function Design**
 ___
